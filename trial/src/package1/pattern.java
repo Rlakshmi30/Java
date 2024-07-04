@@ -7,7 +7,7 @@ public class love{
     {  
         // declare and initialize variable for output size  
         final int size = 8;  
-        final String msg = " I love You ";  
+        final String msg = " Pattern ";  
           
         // nested for loop to print the upper part of Heart  
         for (int m = 0; m < size; m++) {  
